@@ -107,16 +107,12 @@ I'm a **results-driven Software Developer** from Islamabad, Pakistan <img src="h
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevjunaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevjunaid&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdevjunaid&theme=tokyo-night&hide_border=true">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=webdevjunaid&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevjunaid&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
 
