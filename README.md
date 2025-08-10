@@ -207,7 +207,6 @@ Learning        █████████████████▓          
 - 📊 Database Design Patterns for E-commerce Platforms
 <!-- BLOG-POST-LIST:END -->
 
-*[Add RSS feed integration for automatic updates]*
 
 ---
 
