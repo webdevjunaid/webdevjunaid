@@ -1,27 +1,43 @@
-# Hi there, I'm Muhammad Junaid 👋
+# Hi there, I'm Muhammad Junaid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;3%2B+Years+Experience;React+%7C+.NET+%7C+Next.js;Building+Scalable+Solutions&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+🚀;3%2B+Years+Experience+⭐;React+%7C+.NET+%7C+Next.js+💻;Building+Scalable+Solutions+🔥;From+Islamabad+with+❤️&font=Fira%20Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22&pause=1000">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 > **Transforming ideas into digital reality through clean code and innovative solutions**
 
-I'm a **results-driven Software Developer** from Islamabad, Pakistan, with **3+ years** of experience crafting scalable web applications. Currently leading full-stack development at **Codonomy**, I specialize in building responsive, secure applications that solve real-world problems.
+I'm a **results-driven Software Developer** from Islamabad, Pakistan <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="13"/>, with **3+ years** of experience crafting scalable web applications. Currently leading full-stack development at **Codonomy**, I specialize in building responsive, secure applications that solve real-world problems.
 
 - 🔭 Currently working on **enterprise healthcare solutions**
 - 🌱 Exploring **AI integration** and **cloud architecture**
 - ⚡ Passionate about **clean code** and **performance optimization**
 - 🎯 Goal: Contributing to **impactful digital products** that matter
+- 💬 Ask me about **React, .NET, Next.js, or Full-stack Development**
+- 📫 How to reach me: **junaidch249249@gmail.com**
+
+<br clear="both"/>
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +94,7 @@ I'm a **results-driven Software Developer** from Islamabad, Pakistan, with **3+ 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=webdevjunaid&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -94,12 +110,12 @@ I'm a **results-driven Software Developer** from Islamabad, Pakistan, with **3+ 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=webdevjunaid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevjunaid&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=webdevjunaid&theme=tokyo-night&hide_border=true">
 </div>
 
 ---
