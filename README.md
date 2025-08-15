@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding GIF" width="200" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 🔭 **Currently:** Software Developer at **Codonomy**  
 💻 **Specializing in:** React.js, Next.js, .NET, SQL Server  
@@ -129,24 +129,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/junaidch249">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junaidch249&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidch249&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=junaidch249&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🏆 Achievements & Impact
 
@@ -277,7 +259,5 @@ const junaidDev = {
 **⭐ From [Muhammad Junaid](https://github.com/junaidch249) with ❤️**
 
 *"Turning ideas into digital reality, one commit at a time! 🚀"*
-
-![Visitor Count](https://profile-counter.glitch.me/junaidch249/count.svg)
 
 </div>
