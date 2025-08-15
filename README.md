@@ -1,152 +1,208 @@
-# Hi there, I'm Muhammad Junaid 👋
+# Muhammad Junaid
+**Full Stack Web Developer | 3+ Years Experience**
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;3%2B+Years+Experience;React+%7C+Next.js+%7C+.NET+Developer;Building+Scalable+Solutions)
-
-</div>
-
-## 🚀 About Me
-
-I'm a **results-driven Software Developer** with over **3 years** of professional experience in full-stack web development. I specialize in building scalable, responsive, and secure web applications using modern technologies.
-
-- 🔭 Currently working at **Codonomy** as a Software Developer
-- 🌱 Building impactful digital products with **React.js**, **Next.js**, and **.NET**
-- 💼 Previously worked as a **Full-Stack Developer** serving clients across various industries
-- 📍 Based in **Islamabad, Pakistan**
-- ⚡ Passionate about clean code, modern architecture, and user experience
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Databases
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Muhammad Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidch249&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidch249&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=junaidch249&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 Featured Projects
-
-### 🌐 Unifaires - Multi-Language Web Platform
-**Tech Stack:** Next.js 14, Node.js, Express.js, MySQL, TypeScript
-- Scalable multi-language platform with admin and user portals
-- Real-time chat with Socket.io and custom CMS
-- Multiple payment gateways integration (Stripe, PayPal, Flutterwave)
-- Docker & Kubernetes deployment with CI/CD pipelines
-
-### 🐟 PJFarmersMarket - Seafood E-commerce
-**Tech Stack:** Next.js, Supabase, Stripe
-- Direct-to-consumer seafood marketplace
-- Real-time order tracking and inventory management
-- 80% reduction in manual order handling time
-- 40% improvement in page load speed
-
-### 🏥 PrecurePM - Medical Appointment System
-**Tech Stack:** React, .NET Core, SQL Server, Redux
-- HIPAA-compliant appointment scheduling platform
-- 25% reduction in patient wait times
-- Automated insurance claim processing
-- Secure medical record handling
-
-### 💼 HoraceMann - Insurance Commission Backend
-**Tech Stack:** C#, ASP.NET Core, SQL Server
-- High-accuracy commission calculation system (99.99%)
-- 5-second processing time for thousands of transactions
-- Legacy system integration with secure APIs
-- Enhanced audit logging and compliance reporting
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Muhammad Junaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junaidch249&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 🎯 Professional Highlights
-
-- 🏢 **Current Role:** Software Developer at Codonomy
-- 💡 **3+ years** of full-stack development experience  
-- 🚀 **Specialized in:** React.js, Next.js, .NET, and SQL
-- 📱 Built **responsive** and **scalable** web applications
-- 🔐 Experience with **secure authentication** and **HIPAA compliance**
-- ⚡ **Performance optimization** expert (40% speed improvements)
-- 🏗️ **DevOps experience** with Docker, Kubernetes, and CI/CD
-
-## 🌟 What I Do
-
-```javascript
-const muhammadJunaid = {
-    code: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind CSS", "Bootstrap", "Material UI", "Ant Design"]
-        },
-        backEnd: {
-            dotnet: [".NET Core", "ASP.NET"],
-            js: ["Node.js", "Express.js"]
-        },
-        databases: ["SQL Server", "MongoDB", "MySQL"],
-        tools: ["Git", "Azure DevOps", "Docker", "Postman", "Swagger"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    interests: ["Open Source", "AI Tools", "European Football", "Tech Innovation"]
-};
-```
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidch249249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadJunaid)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junaidch249)
-
-**📞 Phone:** +92-326-1710249  
-**📍 Location:** Islamabad, Pakistan
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+.NET+Developer;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=junaidch249&color=blueviolet&style=for-the-badge)
+## 👨‍💻 About Me
 
-**⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+Results-driven Software Developer with over **3 years** of professional experience in full-stack web development. Currently working at **Codonomy** as a Software Developer, specializing in building scalable, responsive, and secure web applications.
 
-</div>
+- 🔭 **Currently:** Software Developer at Codonomy
+- 💻 **Specializing in:** React.js, Next.js, .NET, SQL Server
+- 🎯 **Focus:** Clean code, scalable architecture, user experience
+- 📍 **Location:** Islamabad, Pakistan
+- 🌱 **Learning:** AI integration, cloud architecture, microservices
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Technologies
+- **Frameworks:** React.js, Next.js
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Styling:** Tailwind CSS, Ant Design, Bootstrap, Material UI
+
+### Backend Technologies
+- **Frameworks:** .NET Core, Node.js, Express.js
+- **Languages:** C#, JavaScript, TypeScript
+- **APIs:** RESTful APIs, GraphQL
+
+### Databases & Storage
+- **Relational:** Microsoft SQL Server, MySQL
+- **NoSQL:** MongoDB
+- **Cloud Storage:** Azure Blob, AWS S3
+
+### Development Tools
+- **Version Control:** Git, GitHub, Bitbucket
+- **Project Management:** Azure DevOps, Jira, Trello
+- **Testing & Documentation:** Postman, Swagger
+- **Deployment:** Docker, Kubernetes, CI/CD pipelines
+
+### Development Practices
+- **Methodologies:** Agile, Scrum
+- **Practices:** Code Reviews, Test-Driven Development
+- **Architecture:** Microservices, RESTful Design
+
+---
+
+## 💼 Professional Experience
+
+### **Software Developer** | Codonomy
+**July 2024 – Present**
+- Leading development of full-stack web applications using React.js and .NET
+- Creating and maintaining SQL Server databases for enterprise applications
+- Collaborating with cross-functional teams in Agile environment
+- Writing clean, reusable components ensuring device responsiveness
+- Participating in sprint planning, code reviews, and release cycles
+
+### **Software Development Intern** | Codonomy  
+**April 2024 – June 2024**
+- Contributed to healthcare web application for patient appointment scheduling
+- Developed frontend features in React and backend logic in .NET
+- Optimized SQL queries and API performance
+- Followed Agile processes using Azure Boards
+
+### **Full-Stack Web Developer** | Self-Employed
+**January 2022 – February 2024**
+- Built custom web applications for e-commerce, healthcare, and portfolio clients
+- Developed responsive interfaces with React.js, Next.js, and Tailwind CSS
+- Designed scalable backend APIs using Node.js and .NET
+- Integrated third-party services: Stripe, Firebase, Supabase
+- Deployed applications to Vercel, Netlify, and Render
+
+---
+
+## 🚀 Featured Projects
+
+### **Unifaires** - Multi-Language Web Platform
+**Tech Stack:** Next.js 14, Node.js, Express.js, MySQL, TypeScript
+- Developed scalable platform with separate admin and user portals
+- Built feature-rich admin panel with PDF generation and real-time chat
+- Integrated multiple payment gateways (Stripe, PayPal, Flutterwave)
+- Implemented role-based access control and NextAuth authentication
+- Used Docker, Kubernetes, and CI/CD pipelines for deployment
+
+### **PJFarmersMarket** - Seafood E-commerce Platform
+**Tech Stack:** Next.js, Supabase, Stripe
+- Created seafood marketplace connecting fishermen directly to customers
+- Implemented secure authentication, product catalog, shopping cart
+- Integrated Stripe payment processing with multi-currency support
+- **Results:** 80% reduction in manual order handling, 40% faster page loads
+
+### **PrecurePM** - Medical Appointment & Insurance System
+**Tech Stack:** React, .NET Core, SQL Server, Redux
+- Developed HIPAA-compliant appointment scheduling platform
+- Built insurance claims management with secure medical records
+- Implemented scheduling algorithms and automated claim processes
+- **Results:** 25% reduction in patient wait times, claims processing from days to hours
+
+### **HoraceMann** - Insurance Commission Backend
+**Tech Stack:** C#, ASP.NET Core, SQL Server
+- Built backend infrastructure for commission calculations on thousands of transactions
+- Optimized SQL queries with caching implementation
+- Integrated with legacy systems via secure APIs
+- **Results:** 99.99% calculation accuracy, processing time under 5 seconds
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science**  
+University of Agriculture, Faisalabad | 2020 – 2024
+
+---
+
+## 📈 Key Achievements
+
+- **Performance Optimization:** Improved application load times by up to 40%
+- **Process Automation:** Reduced manual processes by 80% through automation
+- **System Integration:** Successfully integrated with legacy systems and third-party APIs
+- **Scalability:** Built applications handling thousands of concurrent users
+- **Compliance:** Implemented HIPAA-compliant healthcare solutions
+- **Team Collaboration:** Worked effectively in cross-functional Agile teams
+
+---
+
+## 🔧 Development Philosophy
+
+```javascript
+const developmentPrinciples = {
+    codeQuality: "Clean, maintainable, and well-documented",
+    architecture: "Scalable and modular design patterns",
+    userExperience: "Responsive and accessible interfaces",
+    performance: "Optimized for speed and efficiency",
+    security: "Secure by design with proper authentication",
+    collaboration: "Effective teamwork and communication"
+};
+```
+
+---
+
+## 🌟 Core Competencies
+
+- **Full-Stack Development:** End-to-end web application development
+- **Database Design:** Efficient database schema design and optimization
+- **API Development:** RESTful API design and implementation
+- **Cloud Integration:** Azure and AWS services integration
+- **Payment Systems:** Stripe, PayPal integration and processing
+- **Real-time Features:** WebSocket implementation for live features
+- **Security Implementation:** Authentication, authorization, and data protection
+- **Performance Optimization:** Query optimization and caching strategies
+
+---
+
+## 🎯 Current Focus
+
+- **AI Integration:** Exploring AI tools and machine learning integration
+- **Cloud Architecture:** Advanced cloud services and serverless computing
+- **Microservices:** Distributed systems and microservices architecture
+- **DevOps:** Advanced CI/CD pipelines and infrastructure automation
+- **Open Source:** Contributing to open-source projects and community
+
+---
+
+## 📚 Continuous Learning
+
+- Following latest web development trends and best practices
+- Experimenting with new frameworks and technologies
+- Reading tech blogs and attending virtual conferences
+- Building personal projects to explore emerging technologies
+- Participating in developer communities and forums
+
+---
+
+## 🏆 Interests & Hobbies
+
+- **Technology:** Building personal software tools and open-source contributions
+- **Sports:** European football enthusiast and local tournament player
+- **Learning:** Reading tech blogs and exploring new frameworks
+- **Innovation:** Experimenting with AI tools and emerging technologies
+
+---
+
+## 📫 Get In Touch
+
+- **Email:** junaidch249249@gmail.com
+- **Phone:** +92-326-1710249
+- **Location:** Islamabad, Pakistan
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/muhammad-junaid)
+- **Portfolio:** [View my work](https://your-portfolio-url.com)
+
+---
+
+## 💡 Let's Collaborate
+
+I'm always interested in discussing new opportunities, innovative projects, and potential collaborations. Whether you're looking for a full-stack developer, need consultation on your project, or want to discuss the latest in web development, feel free to reach out!
+
+**Available for:**
+- Full-time opportunities
+- Freelance projects
+- Technical consultations
+- Open source collaborations
+- Mentoring junior developers
+
+---
+
+*"Building digital solutions that make a difference, one line of code at a time."*
