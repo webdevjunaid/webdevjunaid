@@ -117,7 +117,7 @@
 
 ---
 
-### 💼 **HoraceMann** - Insurance Backend
+### 💼 **CCS** - Insurance Backend
 **`C#` `ASP.NET Core` `SQL Server` `APIs`**
 
 🔹 **99.99% accuracy** in commission calculations  
