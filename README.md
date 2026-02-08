@@ -228,9 +228,9 @@ I'm always interested in hearing about new projects and opportunities. Whether y
 <br/>
 
 [![Email](https://img.shields.io/badge/📧_Email-junaidch249249@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidch249249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-junaid-35b562232)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-%2B92--326--1710249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923261710249)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://junaidcrafts.vercel.app/)
 
 <br/>
 
